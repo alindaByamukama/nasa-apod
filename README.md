@@ -10,3 +10,4 @@ Incorporating the NASA API to get random astronomy pictures of the day.
 
 ### Resources
 - [Loaf - Animated SVG Generator](https://getloaf.io/)
+- [NASA API DEDMO](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
